@@ -3,7 +3,6 @@
   "description": "An empty dummy container for apiato.",
   "type": "apiato-container",
   "require": {
-    "johannesschobel/apiato-container-installer" : "0.*"
   },
   "extra": {
 	"apiato": {
